@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_create_white_24dp.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-mdpi/ic_create_white_24dp.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_email_black_24dp.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-mdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_lock_black_24dp.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-mdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-mdpi/dummy_post_image.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-mdpi/dummy_post_image.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_close_white_24dp.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-mdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-mdpi/photo_camera.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-mdpi/photo_camera.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_arrow_down.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-mdpi/ic_arrow_down.png"
+    }
+]

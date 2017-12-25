@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MVP demo</string>
+    <string name="home">Home</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+
+    <string name="enter_name">Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="post_body_create">What\'s on your mind</string>
+    <string name="add_image">Add Image</string>
+
+    <string name="menu_logout">Logout</string>
+
+    <string name="upload_post">Upload Post</string>
+
+    <string name="message_account_signup">If you don\'t have an account yet,&#160;SIGN UP HERE</string>
+    <string name="message_sign_in">Already have an account? Login In</string>
+
+
+    <string name="message_post_create_fail">Sorry! Try again</string>
+    <string name="message_post_create_success">Successfully Uploaded</string>
+
+
+    <string name="dummy_body_text">
+        Hello!This is a testing string for dummy text. Hello!This is a testing string for dummy text.
+        Hello!This is a testing string for dummy text. Hello!This is a testing string for dummy text.
+        Hello!This is a testing string for dummy text. Hello!This is a testing string for dummy text.
+        Hello!This is a testing string for dummy text. Hello!This is a testing string for dummy text.
+    </string>
+
+</resources>

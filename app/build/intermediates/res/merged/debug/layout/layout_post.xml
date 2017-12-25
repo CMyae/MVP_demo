@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:showIn="@layout/item_post_with_image">
+
+    <TextView
+        android:id="@+id/tvFirstLetter"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        tools:background="@color/colorAccent"
+        android:gravity="center"
+        />
+    <TextView
+        android:id="@+id/tvUserName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/textColorPrimary"
+        android:layout_toRightOf="@id/tvFirstLetter"
+        tools:text="Jhon Doe"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        tools:text="11 : 20 am Dec 18"
+        android:layout_toRightOf="@id/tvFirstLetter"
+        android:layout_below="@id/tvUserName"
+        android:layout_marginLeft="10dp"
+        android:textColor="#666"
+        android:textSize="12sp"
+        />
+
+
+    <ImageView
+        android:id="@+id/imgAction"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_arrow_down"
+        android:padding="10dp"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:id="@+id/tv_body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvFirstLetter"
+        android:layout_margin="15dp"
+        android:textColor="@color/textColorPrimary"
+        tools:text="@string/dummy_body_text"
+        android:textAlignment="viewStart"
+        android:textSize="14sp"/>
+
+</merge>

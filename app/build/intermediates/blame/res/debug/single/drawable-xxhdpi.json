@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_down.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-xxhdpi/ic_arrow_down.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_create_white_24dp.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-xxhdpi/ic_create_white_24dp.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_lock_black_24dp.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-xxhdpi/ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_email_black_24dp.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-xxhdpi/ic_email_black_24dp.png"
+    },
+    {
+        "merged": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_close_white_24dp.png",
+        "source": "/home/chan/Documents/Chan Myae/Android/Project/Android_Zip/MVPdemo/app/src/main/res/drawable-xxhdpi/ic_close_white_24dp.png"
+    }
+]
