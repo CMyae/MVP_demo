@@ -4,7 +4,7 @@ Sample android app like social style that demonstrates CRUD operations with fire
 
 Features<br>
 -Sign in and Sign up<br>
--Upload posts<br>
+-Upload,Edit,Delete posts<br>
 
 Screenshots
 
